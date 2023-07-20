@@ -162,3 +162,5 @@ cython_debug/
 # Ignore dataset:
 /hcp_task
 hcp_task.tgz
+/runs
+/models
